@@ -1,64 +1,38 @@
-<div align="center">
-  <h1>SpeedType</h1>
+<h1 align="center">SpeedType</h1>
 
-  ![GitHub stars](https://img.shields.io/github/stars/MrTech-AK/SpeedType)
-  ![GitHub forks](https://img.shields.io/github/forks/MrTech-AK/SpeedType)
-  ![GitHub repo views](https://img.shields.io/github/views/MrTech-AK/SpeedType?label=Repo%20Views)
-
-  <p>
-    Welcome to SpeedType, a fun and engaging typing game that aims to boost your typing skills! 🚀 Whether you're a beginner looking to improve your accuracy or an expert aiming to enhance your speed, this game has something for everyone. 🔍
+<p align="center"> 
+  <img src="https://img.shields.io/github/stars/MrTech-AK/SpeedType?style=for-the-badge&color=yellow">
+  <img src="https://img.shields.io/github/forks/MrTech-AK/SpeedType?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/license/MrTech-AK/SpeedType?style=for-the-badge&color=orange"><br>
+<br>
+<br>
+  <img src="https://img.shields.io/badge/Author-MrTech.AK-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Version-v1.0-cyan?style=flat-square">
   </p>
 
-  <img src="https://user-images.githubusercontent.com/12345678/12345678/game-screenshot.gif" alt="Game Screenshot" width="600">
+## Description
+SpeedType is a typing game designed to help users improve their typing speed and accuracy. With various difficulty levels and a timer, this game challenges users to type words quickly and correctly within the given time frame.
 
-  <h2>Features:</h2>
+The game features different word sets for each difficulty level, ensuring a fresh experience every time. Users can track their progress and compare scores to see their typing skills improve over time.
 
-  <ul>
-    <li>Three difficulty levels: Easy, Medium, and Hard, catering to all skill levels. ⭐️</li>
-    <li>Unique word sets for each difficulty level, ensuring a fresh experience every time. 🔄</li>
-    <li>Timer to track your speed and encourage faster typing. ⏱️</li>
-    <li>Scoring system based on typing accuracy and speed, motivating improvement. 🏆</li>
-    <li>Adjustable game settings, including time limit and word count, for personalized challenges. ⚙️</li>
-    <li>User-friendly interface and responsive design for seamless gameplay on desktop and mobile devices. 📱</li>
-  </ul>
+## Play the Game
+[CLICK HERE](https://speed-typegame.vercel.app/) to start playing SpeedType!
 
-  <a href="https://speed-typegame.vercel.app/">Play the Game</a>
+**Total Views** ![Views](https://profile-counter.glitch.me/SpeedType/count.svg) 
 
-  <h2>How to Play:</h2>
+# Star This Repository
+> Your support motivates me to create more projects! Please consider starring this repository if you find SpeedType helpful.
 
-  <ol>
-    <li>Open the game in a web browser by visiting the following link: <a href="https://speed-typegame.vercel.app/">Typing Game</a>.</li>
-    <li>Choose your preferred difficulty level: Easy, Medium, or Hard. 🎮</li>
-    <li>Start typing the displayed words as accurately and quickly as possible. ⌨️</li>
-    <li>Complete as many words as you can within the time limit to earn a high score. 🥇</li>
-    <li>Review your score and track your progress to see your typing skills improve over time. 📊</li>
-  </ol>
+<h1 align="center">Coded with Passion by MrTech-AK</h1>
 
-  <h2>Technologies Used:</h2>
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-  <p>
-    HTML, CSS, and JavaScript for front-end development. Git for version control and collaboration. Vercel for hosting the game online and ensuring seamless performance. 🛠️
-  </p>
+## Contributing
+Contributions to SpeedType are welcome! Feel free to fork the repository and submit pull requests with your improvements.
 
-  <h2>Contributing:</h2>
+## Copyright Notice
+All content, including code and assets, in the SpeedType repository is protected under copyright law. You are granted the right to use, modify, and distribute this repository for educational and non-commercial purposes, subject to the conditions outlined in the [LICENSE](LICENSE) file.
 
-  <p>
-    Contributions to SpeedType are always welcome! If you have any ideas for improvements or new features, please fork the repository and submit a pull request with your changes. 🤝
-  </p>
-
-  <h2>License:</h2>
-
-  <p>
-    This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details. 📄
-  </p>
-
-  <h2>Copyright:</h2>
-
-  <p>
-    &copy; 2024 MrTech-AK. All Rights Reserved. 🚧
-  </p>
-
-  <p>
-    Feel free to contact me with any questions or feedback! Happy typing! 😊
-  </p>
-</div>
+By accessing or using this repository, you agree to abide by these terms and conditions.
